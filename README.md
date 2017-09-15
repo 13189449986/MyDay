@@ -1,7 +1,7 @@
 # [MyDay](https://13189449986.github.io/MyDay/dist)
 
 > MyDay预览
-newnew![mark](http://orf1ycv0g.bkt.clouddn.com/blog/170915/kChlGCGcEl.gif)
+![mark](http://orf1ycv0g.bkt.clouddn.com/blog/170915/kChlGCGcEl.gif)
 
 > BAT校招知识点考察 => 刚刚完成的进阶思维脑图
 [思维脑图](http://t.cn/RCcxmbE)
